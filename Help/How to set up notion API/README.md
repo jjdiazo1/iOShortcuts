@@ -1,6 +1,6 @@
 # How to Set Up Notion API for Linking a Database
 
-This guide will walk you through how to set up Notion's API, generate an API key, and link a database for use in automations like the **Apple Pay to Notion** shortcut.
+This guide will walk you through how to set up Notion's API, generate an API key, and link a database for use in automations like the **Apple Pay to Notion** shortcut. If you feel stuck search for a YouTube video explaining this, there are tons.
 
 ## Step 1: Create an Integration in Notion
 

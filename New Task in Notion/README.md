@@ -15,7 +15,6 @@ This shortcut allows you to create a new task directly in a Notion database usin
 1. **Notion API Key**: You need to generate a Notion API key to allow this shortcut to send data to your Notion workspace.
 2. **Database ID**: The ID of the database where the tasks will be logged.
 
-[Help/How to set up notion API/README.md](https://github.com/jjdiazo1/iOShortcuts/tree/33d7ac06377a56fc4c6d9c18cf0ee99ee1dd6bb7/_Help/How%20to%20set%20up%20notion%20API)
 
 ## Setup Instructions
 
@@ -24,7 +23,7 @@ This shortcut allows you to create a new task directly in a Notion database usin
 1. **Install the Database Template**: First duplicate the template via
      - [Task Database Template](https://lyrical-surprise-739.notion.site/11d07d2edf358001b565fceb52871546?v=11d07d2edf358110a280000cd7b1c2c2&pvs=4) 
 2. **Get Your API Key and Database ID**:
-   - Follow the instructions in the [How to Set Up Notion API Guide](https://developers.notion.com/reference/intro) to generate your API key and notion database ID.
+   - Follow the instructions in [Help/How to set up notion API/README.md](https://github.com/jjdiazo1/iOShortcuts/tree/33d7ac06377a56fc4c6d9c18cf0ee99ee1dd6bb7/_Help/How%20to%20set%20up%20notion%20API) to generate your API key and notion database ID.
 
 ### Installing the Shortcut:
 
@@ -41,15 +40,33 @@ To add or edit the class names, you need to manually enter your classes in the l
 
 ## Important Notes
 
-- Once you have completed the setup, the shortcut will automatically prompt you to add new tasks to your Notion database, categorized by class.
+- Once you have completed the setup and you run the shortcut, the shortcut will automatically prompt you to add new tasks to your Notion database, categorized by class.
 - The **class** selection is the only part that you need to configure manually inside the shortcut. Everything else, such as API Key and Database ID, will be handled during the installation.
 
-## Automation
+## Extra
 
-Make sure to configure this shortcut as an automation, so that you can trigger task creation seamlessly.
+You can put it as a widget or if you have iOS 18 you can put it in the control center by sustaining your finger in it, then clicking add new control in the bottom of the screen.
 
----
+![IMG_BC09476042F4-1](https://github.com/user-attachments/assets/cfa10831-8644-4ada-97c6-31a920815f0c)
 
-For more details on setting up automations, check the following:
-[../Help/How to set up a transaction automation](https://github.com/jjdiazo1/iOShortcuts/tree/33d7ac06377a56fc4c6d9c18cf0ee99ee1dd6bb7/_Help/How%20to%20set%20up%20a%20transaction%20automation)
+Then press on the search bar at the top
 
+![IMG_4032](https://github.com/user-attachments/assets/a82ca2db-53d1-48f6-94fe-d8bd4d4c9c5a)
+
+And type shortcuts, then click on shortcut control title
+
+![IMG_4033](https://github.com/user-attachments/assets/abd4cdbc-e5b6-4730-b386-b7b3733f0aba)
+
+Then you will be prompted with this, where you have to tap choose and choose the shortcut you want to put on the control center
+
+![IMG_4034](https://github.com/user-attachments/assets/44f17010-c3e9-402e-a3e0-59201ecf8a21)
+
+Once you choose it, it will look like this
+
+![IMG_4029](https://github.com/user-attachments/assets/b5d2a013-dee4-426e-8222-a51141257f8b)
+
+Then, resize it as you want and drag it around where you want it to be on the control center. 
+
+![IMG_4030](https://github.com/user-attachments/assets/14ec2c44-1215-44cc-9121-d3f788b3eedc)
+
+You're done!

@@ -6,3 +6,5 @@
 
 ## Setup
 It's important that you set this shortcut as an automation, otherwise it won't work. 
+
+[Help/How to set a transaction automation](../Help/How%20to%20set%20a%20transaction%20automation/)

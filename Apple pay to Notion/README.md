@@ -18,7 +18,8 @@ Both of these need to be configured in the shortcut for it to work properly.
 
 ### How to Configure the Shortcut
 
-1. Clone the database template or do it yourself https://lyrical-surprise-739.notion.site/11d07d2edf3580eebce6f2acf458591c?v=11d07d2edf358183899a000c41f19b61&pvs=4
+1. Clone the [expenses template](https://lyrical-surprise-739.notion.site/11d07d2edf3580eebce6f2acf458591c?v=11d07d2edf358183899a000c41f19b61&pvs=4) or modify the text in the shortcut to match the fields of your own database, refer to the [Notion API documentation](https://developers.notion.com/reference/intro)
+2. Download the shortcut via the iCloud link given.
 3. Open the shortcut in the **Shortcuts** app.
 4. Replace the placeholder text for `database_id` and `Authorization` with your Notion API key and the ID of your Notion database.
 5. For **Authorization**, use the format: `Bearer YOUR_API_KEY` Replace `YOUR_API_KEY` with your actual Notion API key.

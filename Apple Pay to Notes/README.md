@@ -18,4 +18,5 @@ It's important that you set this shortcut as a transaction automation. Without a
 
 Refer to this guide for how to set up an automation:
 
-[../Help/How to set up a transaction automation](https://github.com/jjdiazo1/iOShortcuts/tree/4cd878af6448139fe15cfdf488a477477e61424f/Help/How%20to%20set%20up%20a%20transaction%20automation)
+[../Help/How to set up a transaction automation](https://github.com/jjdiazo1/iOShortcuts/tree/33d7ac06377a56fc4c6d9c18cf0ee99ee1dd6bb7/_Help/How%20to%20set%20up%20a%20transaction%20automation)
+

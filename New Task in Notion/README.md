@@ -47,26 +47,4 @@ To add or edit the class names, you need to manually enter your classes in the l
 
 You can put it as a widget or if you have iOS 18 you can put it in the control center by sustaining your finger in it, then clicking add new control in the bottom of the screen.
 
-![IMG_BC09476042F4-1](https://github.com/user-attachments/assets/cfa10831-8644-4ada-97c6-31a920815f0c)
-
-Then press on the search bar at the top
-
-![IMG_4032](https://github.com/user-attachments/assets/a82ca2db-53d1-48f6-94fe-d8bd4d4c9c5a)
-
-And type shortcuts, then click on shortcut control title
-
-![IMG_4033](https://github.com/user-attachments/assets/abd4cdbc-e5b6-4730-b386-b7b3733f0aba)
-
-Then you will be prompted with this, where you have to tap choose and choose the shortcut you want to put on the control center
-
-![IMG_4034](https://github.com/user-attachments/assets/44f17010-c3e9-402e-a3e0-59201ecf8a21)
-
-Once you choose it, it will look like this
-
-![IMG_4029](https://github.com/user-attachments/assets/b5d2a013-dee4-426e-8222-a51141257f8b)
-
-Then, resize it as you want and drag it around where you want it to be on the control center. 
-
-![IMG_4030](https://github.com/user-attachments/assets/14ec2c44-1215-44cc-9121-d3f788b3eedc)
-
-You're done!
+[_Help/How to set up shortcut in control center](https://github.com/jjdiazo1/iOShortcuts/tree/5ea0370b892b0c4127df72cdcdebe3cc22c86721/_Help/How%20to%20set%20up%20shortcut%20in%20control%20center)

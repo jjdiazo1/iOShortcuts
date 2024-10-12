@@ -1,7 +1,6 @@
 # Apple Pay to Notion
 
 **Link**: 
-
 <img width="886" alt="Screenshot 2024-10-12 at 1 30 01 PM" src="https://github.com/user-attachments/assets/ffca6675-f426-46fc-9106-24b9aaf8b3b8">
 
 This shortcut allows you to log your Apple Pay transactions directly into a Notion database. It's a seamless way to track your expenses with a quick tap.

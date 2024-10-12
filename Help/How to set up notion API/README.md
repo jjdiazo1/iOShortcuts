@@ -28,13 +28,7 @@ Here, `1234567890abcdef1234567890abcdef` is your **Database ID**.
 3. Search for your integration name (e.g., "Apple Pay Integration") and invite it to the database.
 4. This grants the integration permission to access and update the data in your database.
 
-### Step 4: Configure the Shortcut
-
-1. In the **Apple Pay to Notion** shortcut, replace the following:
-- **Database ID**: Enter your database's unique ID.
-- **API Key**: Under the Authorization header, enter `Bearer YOUR_API_KEY` (replace `YOUR_API_KEY` with your actual key).
-
-That's it! Now your shortcut is ready to log Apple Pay transactions directly into your Notion database.
+That's it! Now your shortcut is ready to be set up to send the data to a notion database.
 
 ---
 

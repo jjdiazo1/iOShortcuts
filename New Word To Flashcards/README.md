@@ -1,5 +1,7 @@
 # New Word to Flashcards Shortcut
 
+**Link**: https://www.icloud.com/shortcuts/1368c38c576340c1b2ed8753bc3535a8
+
 This shortcut allows you to easily add new vocabulary words to your flashcards in **Obsidian**, with built-in translation capabilities between two languages of your choice. It automates the process of adding flashcards with hints and translations directly into an Obsidian note.
 
 > Shortcut:

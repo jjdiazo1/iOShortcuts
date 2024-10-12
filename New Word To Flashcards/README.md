@@ -23,7 +23,7 @@ For more information on Obsidian and the Flashcards plugin, visit:
 - [Flashcards Plugin for Obsidian](https://github.com/mgmeyers/obsidian-spaced-repetition)
 
 ### Optional Alternatives:
-If you don’t want to set up Obsidian or the Flashcards plugin, you can modify the shortcut to save the flashcards in other text-based apps like **Apple Notes** or **Notion**. However, the translation and spaced repetition features will need to be adjusted according to the app's capabilities.
+If you don’t want to set up Obsidian or the Flashcards plugin, you can modify the shortcut to save the flashcards in other text-based apps like **Apple Notes** or **Notion**. However, the translation and spaced repetition features will need to be adjusted according to the app's capabilities. There's seems to be a plugin to sync Obsidian with **Anki**, you could try and check that out https://www.youtube.com/watch?v=PXyv6pnVGhA
 
 ## Setup Instructions
 

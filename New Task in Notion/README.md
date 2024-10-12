@@ -35,7 +35,7 @@ This shortcut allows you to create a new task directly in a Notion database usin
    - The **Database ID** of your Notion database where the tasks will be logged.
 4. Modify the **class** for your tasks manually by editing the shortcut. You can see the list of classes that need to be defined, as shown in the image below:
 
-![Class Setup](https://github.com/user-attachments/assets/3OnWlxmTyEus7IqYjDvMyqhd)
+![IMG_2643ABBDC1A6-1](https://github.com/user-attachments/assets/7fe507da-686e-413f-b0e8-556758ffa3e7)
 
 To add or edit the class names, you need to manually enter your classes in the list as shown in the screenshot.
 

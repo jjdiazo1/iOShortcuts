@@ -14,6 +14,8 @@ This shortcut allows you to log your Apple Pay transactions directly into a Noti
 1. **Notion API Key**: You need to generate a Notion API key to allow this shortcut to send data to your Notion workspace.
 2. **Database ID**: The ID of the database where the transactions will be logged.
 
+[Help/How to set up notion API/README.md](https://github.com/jjdiazo1/iOShortcuts/blob/21c7729a1f3660442fe8a1ee77a4cd558af03cab/Help/How%20to%20set%20up%20notion%20API/README.md)
+
 ### How to Configure the Shortcut
 
 1. Clone the [expenses template](https://lyrical-surprise-739.notion.site/11d07d2edf3580eebce6f2acf458591c?v=11d07d2edf358183899a000c41f19b61&pvs=4) or modify the text in the shortcut to match the fields of your own database, refer to the [Notion API documentation](https://developers.notion.com/reference/intro)
@@ -25,6 +27,7 @@ This shortcut allows you to log your Apple Pay transactions directly into a Noti
 
 6. Make sure you have set up the Notion API and granted access to your database.
 
-For further help setting up the Notion API and getting your database ready, refer to the 
+For further help setting up the Notion API and getting your database ready, refer to the following 
+[Help/How to set up notion API/README.md](https://github.com/jjdiazo1/iOShortcuts/blob/21c7729a1f3660442fe8a1ee77a4cd558af03cab/Help/How%20to%20set%20up%20notion%20API/README.md)
 
 

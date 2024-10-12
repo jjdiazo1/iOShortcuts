@@ -1,6 +1,6 @@
-# Setting Up a transaction Automation in iOS Shortcuts
+# Setting Up an Automation in iOS Shortcuts
 
-This guide will walk you through the steps to create a personal automation in iOS Shortcuts. This is used for the Apple pay related shortcuts.
+This guide will walk you through the steps to create a personal automation in iOS Shortcuts.
 
 ## Steps to Set Up an Automation
 

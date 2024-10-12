@@ -3,6 +3,7 @@
 This shortcut allows you to easily add new vocabulary words to your flashcards in **Obsidian**, with built-in translation capabilities between two languages of your choice. It automates the process of adding flashcards with hints and translations directly into an Obsidian note.
 
 > Shortcut:
+
 ![IMG_4024](https://github.com/user-attachments/assets/becb1875-414d-4a20-aa75-366964153715)
 
 > Result:
